@@ -1,2 +1,2 @@
-# Python-PyQt5-GUI
+# Python-ML
 Python PyQt5 GUI 
